@@ -1,0 +1,1247 @@
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfoInputs.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfo.cs
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CoreCompileInputs.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csprojAssemblyReference.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\web.config
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\appsettings.Development.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\appsettings.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Presentation.Services.exe
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Presentation.Services.deps.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.dev.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Presentation.Services.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ref\Presentation.Services.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Presentation.Services.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\AutoMapper.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\FluentValidation.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Humanizer.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.Core.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.Dto.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.IoC.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.Manager.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.Services.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.Core.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.Dto.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.IoC.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.Manager.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Application.Services.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cs
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.Manifest.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.xml
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\scopedcss\bundle\Presentation.Services.styles.css
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.RazorTargetAssemblyInfo.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CopyComplete
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\ref\Presentation.Services.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Presentation.Services\obj\Debug\net5.0\Presentation.Services.genruntimeconfig.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\appsettings.Development.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\appsettings.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\web.config
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.exe
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.deps.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.dev.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ref\Presentation.Services.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\AutoMapper.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\FluentValidation.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Humanizer.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Core.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Dto.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.IoC.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Manager.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Services.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Core.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Dto.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.IoC.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Manager.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Services.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csprojAssemblyReference.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfoInputs.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfo.cs
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CoreCompileInputs.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cs
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.Manifest.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.xml
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\scopedcss\bundle\Presentation.Services.styles.css
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.RazorTargetAssemblyInfo.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CopyComplete
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\ref\Presentation.Services.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.genruntimeconfig.cache
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\web.config
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\appsettings.Development.json
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\appsettings.json
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Presentation.Services.exe
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Presentation.Services.deps.json
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.json
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.dev.json
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Presentation.Services.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ref\Presentation.Services.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Presentation.Services.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\AutoMapper.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\FluentValidation.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Humanizer.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.Core.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.Dto.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.IoC.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.Manager.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.Services.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.dll
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.Core.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.Dto.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.IoC.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.Manager.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Application.Services.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.pdb
+C:\XTERNAL-GNV\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.pdb
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csprojAssemblyReference.cache
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfoInputs.cache
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfo.cs
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CoreCompileInputs.cache
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.Manifest.cache
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.xml
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\scopedcss\bundle\Presentation.Services.styles.css
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.RazorTargetAssemblyInfo.cache
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CopyComplete
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.dll
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\ref\Presentation.Services.dll
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.pdb
+C:\XTERNAL-GNV\Presentation.Services\obj\Debug\net5.0\Presentation.Services.genruntimeconfig.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\appsettings.Development.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\web.config
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\appsettings.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.exe
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.deps.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.dev.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ref\Presentation.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Presentation.Services.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\AutoMapper.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\FluentValidation.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Humanizer.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.AspNetCore.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.File.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Core.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Dto.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Manager.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Core.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Dto.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.IoC.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Manager.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Application.Services.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.AssemblyReference.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfoInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfo.cs
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CoreCompileInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cs
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.Manifest.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.xml
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\scopedcss\bundle\Presentation.Services.styles.css
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.RazorTargetAssemblyInfo.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CopyComplete
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\ref\Presentation.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Presentation.Services\obj\Debug\net5.0\Presentation.Services.genruntimeconfig.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\web.config
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\appsettings.Development.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\appsettings.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.exe
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.deps.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.dev.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ref\Presentation.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\AutoMapper.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Humanizer.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.AspNetCore.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.File.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Core.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Dto.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Manager.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Core.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Dto.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.IoC.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Manager.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Services.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.AssemblyReference.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfoInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfo.cs
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CoreCompileInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cs
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.Manifest.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.xml
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\scopedcss\bundle\Presentation.Services.styles.css
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.RazorTargetAssemblyInfo.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CopyComplete
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\ref\Presentation.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.genruntimeconfig.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\appsettings.Development.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\appsettings.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\web.config
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.exe
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.deps.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.dev.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ref\Presentation.Services.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\AutoMapper.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Humanizer.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Core.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Dto.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.IoC.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Manager.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Services.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Core.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Dto.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.IoC.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Manager.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Services.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.AssemblyReference.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfoInputs.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfo.cs
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CoreCompileInputs.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cs
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.Manifest.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.xml
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\scopedcss\bundle\Presentation.Services.styles.css
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.RazorTargetAssemblyInfo.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CopyComplete
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\ref\Presentation.Services.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.genruntimeconfig.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\web.config
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\appsettings.Development.json
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\appsettings.json
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.exe
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.deps.json
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.json
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.runtimeconfig.dev.json
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ref\Presentation.Services.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Presentation.Services.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\AutoMapper.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Humanizer.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.AspNetCore.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.File.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Drawing.Common.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Core.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Dto.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.IoC.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Manager.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Services.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Core.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Dto.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.IoC.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Manager.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Application.Services.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Domain.MainModule.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\bin\Debug\net5.0\Infrastructure.Data.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.AssemblyReference.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfoInputs.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.AssemblyInfo.cs
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CoreCompileInputs.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cs
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.MvcApplicationPartsAssemblyInfo.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.Manifest.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\staticwebassets\Presentation.Services.StaticWebAssets.xml
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\scopedcss\bundle\Presentation.Services.styles.css
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.RazorTargetAssemblyInfo.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.csproj.CopyComplete
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\ref\Presentation.Services.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Presentation.Services\obj\Debug\net5.0\Presentation.Services.genruntimeconfig.cache

@@ -1,0 +1,714 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Presentation.Services\\Presentation.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Core\\Application.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Core\\Application.Core.csproj",
+        "projectName": "Application.Core",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Core\\Application.Core.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj",
+        "projectName": "Application.Dto",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.IoC\\Application.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.IoC\\Application.IoC.csproj",
+        "projectName": "Application.IoC",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.IoC\\Application.IoC.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj",
+        "projectName": "Application.Manager",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj",
+        "projectName": "Application.Services",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.Data\\Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj",
+        "projectName": "Domain.MainModule",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "projectName": "Infrastructure.Data",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj",
+        "projectName": "Infrastructure.MainModule",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Services\\Application.Services.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "System.Security.Cryptography.Algorithms": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Presentation.Services\\Presentation.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Presentation.Services\\Presentation.Services.csproj",
+        "projectName": "Presentation.Services",
+        "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Presentation.Services\\Presentation.Services.csproj",
+        "packagesPath": "C:\\Users\\EABANTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Presentation.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EABANTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Core\\Application.Core.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Core\\Application.Core.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Dto\\Application.Dto.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.IoC\\Application.IoC.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.IoC\\Application.IoC.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Application.Manager\\Application.Manager.csproj"
+              },
+              "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj": {
+                "projectPath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Infrastructure.MainModule\\Infrastructure.MainModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Contracts": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

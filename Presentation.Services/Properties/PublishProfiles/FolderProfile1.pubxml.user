@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>G:\Xternal\GNV - proyecto\Publicar\BackGnv</_PublishTargetUrl>
+    <History>True|2022-07-22T16:43:26.7549773Z;True|2022-07-22T11:31:03.8784003-05:00;True|2022-07-21T17:07:50.6941749-05:00;True|2022-07-21T15:57:38.7486703-05:00;True|2022-07-21T12:07:15.0342279-05:00;True|2022-07-21T10:17:30.9506282-05:00;True|2022-07-21T09:54:30.7392148-05:00;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,175 @@
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\Application.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfoInputs.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfo.cs
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CoreCompileInputs.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\Application.IoC.csprojAssemblyReference.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.IoC.deps.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.IoC.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\ref\Application.IoC.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.IoC.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.Dto.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.Manager.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.Services.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Domain.MainModule.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.Manager.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.Services.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Application.Dto.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Domain.MainModule.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CopyComplete
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\Application.IoC.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\ref\Application.IoC.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Application.IoC\obj\Debug\net5.0\Application.IoC.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.IoC.deps.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.IoC.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\ref\Application.IoC.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.IoC.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Dto.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Manager.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Services.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Domain.MainModule.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Manager.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Services.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Dto.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Domain.MainModule.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.csprojAssemblyReference.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfoInputs.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfo.cs
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CoreCompileInputs.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CopyComplete
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\ref\Application.IoC.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.pdb
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.IoC.deps.json
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.IoC.dll
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\ref\Application.IoC.dll
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.IoC.pdb
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.Dto.dll
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.Manager.dll
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.Services.dll
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Domain.MainModule.dll
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.dll
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.dll
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.Manager.pdb
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.Services.pdb
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Application.Dto.pdb
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Domain.MainModule.pdb
+C:\XTERNAL-GNV\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.pdb
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\Application.IoC.csprojAssemblyReference.cache
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\Application.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfoInputs.cache
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfo.cs
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CoreCompileInputs.cache
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CopyComplete
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\Application.IoC.dll
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\ref\Application.IoC.dll
+C:\XTERNAL-GNV\Application.IoC\obj\Debug\net5.0\Application.IoC.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.IoC.deps.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\ref\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.IoC.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Dto.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Manager.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Domain.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Manager.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Services.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Application.Dto.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Domain.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.AssemblyReference.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.GeneratedMSBuildEditorConfig.editorconfig
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfoInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfo.cs
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CoreCompileInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CopyComplete
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\ref\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\GnvApiRest\Application.IoC\obj\Debug\net5.0\Application.IoC.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.deps.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\ref\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Dto.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Manager.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Services.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Domain.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Manager.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Services.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Dto.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Domain.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.AssemblyReference.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.GeneratedMSBuildEditorConfig.editorconfig
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfoInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfo.cs
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CoreCompileInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CopyComplete
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\ref\Application.IoC.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.deps.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\ref\Application.IoC.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Dto.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Manager.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Services.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Domain.MainModule.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Manager.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Services.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Dto.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Domain.MainModule.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.AssemblyReference.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfoInputs.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfo.cs
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CoreCompileInputs.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CopyComplete
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\ref\Application.IoC.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.deps.json
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\ref\Application.IoC.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.IoC.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Dto.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Manager.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Services.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Domain.MainModule.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Manager.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Services.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.MainModule.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Application.Dto.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Domain.MainModule.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\bin\Debug\net5.0\Infrastructure.Data.pdb
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.AssemblyReference.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfoInputs.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.AssemblyInfo.cs
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CoreCompileInputs.cache
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.csproj.CopyComplete
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\ref\Application.IoC.dll
+G:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Application.IoC\obj\Debug\net5.0\Application.IoC.pdb

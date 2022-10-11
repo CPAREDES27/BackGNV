@@ -1,0 +1,90 @@
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.deps.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.dev.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\bin\Release\net5.0\ref\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csprojAssemblyReference.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfo.cs
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CopyComplete
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\ref\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\GnvBackEnd\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.genruntimeconfig.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.deps.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.dev.json
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\ref\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csprojAssemblyReference.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfo.cs
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CopyComplete
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\ref\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\WebCalidda\03. Código Fuente\GNV\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.genruntimeconfig.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.deps.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.dev.json
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\ref\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csprojAssemblyReference.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfo.cs
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CopyComplete
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\ref\Infrastructure.Data.dll
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.pdb
+D:\Xternal\02. Proyectos\Pierr\GNV\Fuentes\BackEnd\GnvApiRest\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.genruntimeconfig.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.deps.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.dev.json
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\ref\Infrastructure.Data.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.AssemblyReference.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfoInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfo.cs
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CopyComplete
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\ref\Infrastructure.Data.dll
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.pdb
+F:\A-Xternal Trabajo\PROYECTO - GNV\Github\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.genruntimeconfig.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.deps.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.runtimeconfig.dev.json
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\ref\Infrastructure.Data.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Infrastructure.Data.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\bin\Release\net5.0\Domain.MainModule.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.AssemblyInfo.cs
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.csproj.CopyComplete
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\ref\Infrastructure.Data.dll
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.pdb
+D:\Xternal\GNV - proyecto\Github GNV Lap\PortalGNV.Back\Infrastructure.Data\obj\Release\net5.0\Infrastructure.Data.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHBIE95N5wzl00IFCI55IBOWSzybggxA8D5u5xV5XV6ebQquICiDdmrwyKPZ2BlZGVGyfjwKSJ7MxdyhQWkZIA==",
+  "success": true,
+  "projectFilePath": "D:\\Xternal\\GNV - proyecto\\Github GNV Lap\\PortalGNV.Back\\Domain.MainModule\\Domain.MainModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EABANTOR\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
